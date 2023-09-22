@@ -39,3 +39,5 @@ Les données sont envoyées sous forme de **paquets** c'est à dire des données
 ## About
 Cette vidéo a été résumée par [Gwendoline Jacobs](https://github.com). 
 Pour revenir au README, cliquez [ici](/BECODE-TRAINING-Gwendoline-Jacobs/README.md)
+
+this theory file has been reviewed by Audrius Grebliunas :sunglasses:
